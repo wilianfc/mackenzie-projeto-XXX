@@ -1,6 +1,6 @@
-# Prática Profissional em Análise e Desenvolvimento de Sistemas
+# Objetos Inteligentes Conectados 1 sem. 2018
 
-## Turma 05J
+## Turma XXX
 
 ## Integrantes do grupo:
 
