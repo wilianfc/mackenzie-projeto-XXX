@@ -156,7 +156,8 @@ Abbreviations
 Markdown converts text to HTML.
 
 *[HTML]: HyperText Markup Language
-````
+
 ## Caso queira, você também pode utilizar um editor online:
 - https://stackedit.io/app#
 - https://github.com/cben/mathdown/wiki/math-in-markdown#sites--online-editors
+
