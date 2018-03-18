@@ -98,6 +98,7 @@ var foo = 'bar';
 var foo = 'bar';
 ```
 ````
+
 Tabelas
 ---------------------------
 
@@ -122,9 +123,6 @@ Markdown
 Classeur
 :  French translation for "Binder"
 :  A Markdown editing app
-
-
-
 
 ````markdown
 Tabelas
@@ -151,7 +149,7 @@ Markdown
 Classeur
 :  French translation for "Binder"
 :  A Markdown editing app
-
+````
 Footnotes
 ---------------------------
 
