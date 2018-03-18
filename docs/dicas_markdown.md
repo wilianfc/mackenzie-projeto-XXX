@@ -1,5 +1,4 @@
-# Aqui estão algumas marcaçes para utilizar o formato Markdown
-# Para visualizar as marcações, edite este código
+# Aqui estão algumas marcações para utilizar o formato Markdown
 ````markdown
 Cabeçalhos
 ---------------------------
