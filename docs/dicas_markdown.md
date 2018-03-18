@@ -46,7 +46,7 @@ A [link](http://example.com).
 An image: ![Alt](img.jpg)
 
 
-Codigo
+Códigos
 ---------------------------
 
 Some `inline code`.
