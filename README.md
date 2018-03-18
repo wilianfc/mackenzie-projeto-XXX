@@ -1,7 +1,7 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Turma XXX
-
+## Projeto: "nome do projeto"
 ## Integrantes do grupo:
 
 * Aluno 1
