@@ -1,8 +1,7 @@
 # Documento de Visão do Projeto "NOME DO PROJETO"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *"NOME DO CLIENTE"*, 
-apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
-esperadas do sistema.
+Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
+apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
 
@@ -59,7 +58,7 @@ esperadas do sistema.
 * Restrição 3
 * etc.
 
-## Protótipos de tela
+## Protótipos
 
 ### Protótipos para funcionalidade 1
 
