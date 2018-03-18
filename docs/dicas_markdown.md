@@ -130,7 +130,7 @@ Pipe     | $1
 
 
 
-Definition lists
+Listas de definição
 ---------------------------
 
 Markdown
@@ -140,22 +140,6 @@ Classeur
 :  French translation for "Binder"
 :  A Markdown editing app
 
-
-
-Footnotes
----------------------------
-
-Some text with a footnote.[^1]
-
-[^1]: The footnote.
-
-
-Abbreviations
----------------------------
-
-Markdown converts text to HTML.
-
-*[HTML]: HyperText Markup Language
 
 ## Caso queira, você também pode utilizar um editor online:
 - https://stackedit.io/app#
