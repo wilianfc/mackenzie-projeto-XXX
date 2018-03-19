@@ -9,3 +9,9 @@
 * Aluno 3
 * Aluno 4
 * Aluno 5
+_______________________________________
+Obs:
+
+`src/` deve conter os códigos desenvolvidos
+
+`doc/` documentação do projeto
