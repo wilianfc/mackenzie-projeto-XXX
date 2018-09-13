@@ -10,6 +10,9 @@
 * Aluno 4
 
 ## Descrição resumida do projeto
+
+Descreva resumidamente o projeto aqui.
+
 _______________________________________
 Obs:
 
