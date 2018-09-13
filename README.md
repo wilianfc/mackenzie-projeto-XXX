@@ -1,4 +1,4 @@
-# Objetos Inteligentes Conectados 1 sem. 2018
+# [NOME DA DISCIPLINA] X sem. 20XX
 
 ## Turma XXX
 ## Projeto: "nome do projeto"
@@ -8,7 +8,8 @@
 * Aluno 2
 * Aluno 3
 * Aluno 4
-* Aluno 5
+
+##Descrição resumida do projeto
 _______________________________________
 Obs:
 
