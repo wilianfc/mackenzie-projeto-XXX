@@ -9,7 +9,7 @@
 * Aluno 3
 * Aluno 4
 
-##Descrição resumida do projeto
+## Descrição resumida do projeto
 _______________________________________
 Obs:
 
